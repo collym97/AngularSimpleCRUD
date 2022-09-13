@@ -1,1 +1,1 @@
-# AngularSimpleCRUD
+# AngularCRUD
